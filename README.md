@@ -3,7 +3,7 @@
 Tensorflow implementation of Advanced Recurrent Neural Networks
 
 <p align="center">
-    <img src="results/graph-run.png">
+    <img src="results/graph_run.png">
 </p>
 
 ## Accuracy
